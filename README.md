@@ -4,7 +4,7 @@
 // 📚 job title: student :) <br>
 // 🎹 current favorite song: <a href="https://youtu.be/z3szNvgQxHo">g-idle - hwaa</a> <br>
 
-// find me here // <br>
+// find me here <br>
 instagram: <a href="https://www.instagram.com/ssmoogi/">@ssmoogi</a> <br>
 twitter: <a href="https://twitter.com/ssmoogi">@ssmoogi</a> <br>
 spotify: <a href="https://open.spotify.com/user/ssmoogi">@ssmoogi</a> <br>
