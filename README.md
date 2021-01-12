@@ -1,7 +1,8 @@
 ### hello there!👋✨
 
-// pronouns: she/her <br>
-// job title: student :) <br>
+// 💖 pronouns: she/her <br>
+// 📚 job title: student :) <br>
+// 🎹 current favorite song: <a href="https://youtu.be/z3szNvgQxHo">g-idle - hwaa</a> <br>
 
 // find me here // <br>
 instagram: <a href="https://www.instagram.com/ssmoogi/">@ssmoogi</a> <br>
