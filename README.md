@@ -9,7 +9,8 @@ instagram: [@ssmoogi](https://www.instagram.com/ssmoogi)\
 twitter: [@ssmoogi](https://twitter.com/ssmoogi)\
 spotify: [@ssmoogi](https://open.spotify.com/user/ssmoogi)\
 devpost: [@ssmoogi](https://devpost.com/ssmoogi)\
-youtube: [@sahana moogi](https://www.youtube.com/channel/UCAKNiiL6mArE_O0kqPbyq_A)
+youtube: [@sahana moogi](https://www.youtube.com/channel/UCAKNiiL6mArE_O0kqPbyq_A)\
+linkedin: [@sahana moogi](www.linkedin.com/in/ssmoogi)
 
 // 🔗 website: [ssmoogi.github.io](https://ssmoogi.github.io/)
 
