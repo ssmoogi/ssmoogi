@@ -1,17 +1,17 @@
 ### hello there!👋✨
 
-// 💖 pronouns: she/her <br>
-// 📚 job title: student :) <br>
-// 🎹 current favorite song: <a href="https://youtu.be/z3szNvgQxHo">g-idle - hwaa</a> <br>
+// 💖 pronouns: she/her \
+// 📚 job title: student :) \
+// 🎹 current favorite song: [g-idle - hwaa](https://youtu.be/z3szNvgQxHo) \
 
 // find me here <br>
-instagram: <a href="https://www.instagram.com/ssmoogi/">@ssmoogi</a> <br>
-twitter: [@ssmoogi](https://twitter.com/ssmoogi)
-spotify: <a href="https://open.spotify.com/user/ssmoogi">@ssmoogi</a> <br>
-devpost: <a href="https://devpost.com/ssmoogi">@ssmoogi</a> <br>
-youtube: <a href="https://www.youtube.com/channel/UCAKNiiL6mArE_O0kqPbyq_A">@sahana moogi</a> <br>
+instagram: [@ssmoogi](https://www.instagram.com/ssmoogi)\
+twitter: [@ssmoogi](https://twitter.com/ssmoogi)\
+spotify: [@ssmoogi](https://open.spotify.com/user/ssmoogi)\
+devpost: [@ssmoogi](https://devpost.com/ssmoogi)\
+youtube: [@sahana moogi](https://www.youtube.com/channel/UCAKNiiL6mArE_O0kqPbyq_A)\
 
-// 🔗 website: <a href="https://ssmoogi.github.io/">ssmoogi.github.io</a>
+// 🔗 website: [ssmoogi.github.io](https://ssmoogi.github.io/)\
 
 <!--[![HitCount](http://hits.dwyl.com/ssmoogi/ssmoogi.svg)](http://hits.dwyl.com/ssmoogi/ssmoogi)-->
 
