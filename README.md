@@ -6,12 +6,11 @@
 
 // find me here <br>
 instagram: [@ssmoogi](https://www.instagram.com/ssmoogi)\
-twitter: [@ssmoogi](https://twitter.com/ssmoogi)\
 spotify: [@ssmoogi](https://open.spotify.com/user/ssmoogi)\
-devpost: [@ssmoogi](https://devpost.com/ssmoogi)\
+<!--devpost: [@ssmoogi](https://devpost.com/ssmoogi)\
 linkedin: [@sahana moogi](https://www.linkedin.com/in/ssmoogi)
 
-// 🔗 website: [ssmoogi.github.io](https://ssmoogi.github.io/)
+// 🔗 website: [ssmoogi.github.io](https://ssmoogi.github.io/)-->
 
 <!--[![HitCount](http://hits.dwyl.com/ssmoogi/ssmoogi.svg)](http://hits.dwyl.com/ssmoogi/ssmoogi)-->
 
