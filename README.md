@@ -1,8 +1,8 @@
 ### hello there!👋✨
 
 // 💖 pronouns: she/her \
-// 📚 job title: student :) \
-// 🎹 current favorite song: [dpr live, dpr ian, peace. - diamonds + and pearls](https://youtu.be/0wv9jHT-DMA)
+// 📚 job title: student :')) \
+// 🎹 current favorite song: [dpr ian - ballroom extravaganza](https://youtu.be/brxkoLjrsFc)
 
 // find me here <br>
 instagram: [@ssmoogi](https://www.instagram.com/ssmoogi)\
